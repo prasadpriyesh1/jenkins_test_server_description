@@ -1,0 +1,8 @@
+#!/bin/bash
+if [ `git rev-parse --abbrev-ref HEAD` == "testing2" ]; then
+   git push -u origin testing2
+   curl --user "admin:adminpr"       192.168.43.82:8080/job/Test_server/build?token=testing
+elif [ `git rev-parse --abbrev-ref HEAD` == "testing" ]; then
+   git push -u origin testing
+   curl --user "admin:adminpr"             192.168.43.82:8080/job/Main_server/build?token=main 
+fi
