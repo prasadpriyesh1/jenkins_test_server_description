@@ -50,13 +50,13 @@
        III. Merge_job(after successful build merge 'testing2' branch to 'testing' and push the code to github)
        ** note : you to pull the updated code to your local git repository after running the merge job for making further changes
        
-  e. Main_server job -> https://github.com/prasadpriyesh1/jenkins_test_server_description/blob/master/Job2_Main_server_p1.png
+  e. Main_server job -><br> https://github.com/prasadpriyesh1/jenkins_test_server_description/blob/master/Job2_Main_server_p1.png
                         https://github.com/prasadpriyesh1/jenkins_test_server_description/blob/master/Job2_Main_server_p2.png
                         https://github.com/prasadpriyesh1/jenkins_test_server_description/blob/master/Job2_Main_server_p3.png
                         
-  f. Test_server job -> https://github.com/prasadpriyesh1/jenkins_test_server_description/blob/master/Job1_Test_server_p1.png
+  f. Test_server job -><br> https://github.com/prasadpriyesh1/jenkins_test_server_description/blob/master/Job1_Test_server_p1.png
                         https://github.com/prasadpriyesh1/jenkins_test_server_description/blob/master/Job1_Test_server_p2.png
                         
-  g. Merge_job job -> https://github.com/prasadpriyesh1/jenkins_test_server_description/blob/master/Job3_Merge_job_p1.png
+  g. Merge_job job -><br> https://github.com/prasadpriyesh1/jenkins_test_server_description/blob/master/Job3_Merge_job_p1.png
                       https://github.com/prasadpriyesh1/jenkins_test_server_description/blob/master/Job3_Merge_job_p2.png
                       https://github.com/prasadpriyesh1/jenkins_test_server_description/blob/master/Job3_Merge_job_p3.png
